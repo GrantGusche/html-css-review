@@ -1,0 +1,31 @@
+{
+ box-sizing:border-box;
+}
+
+body{
+ font-family: 'Nunito',sans-serif;
+ /*color: #fff;*/ 
+ line-height: 1.5;
+}
+
+ .wrapper{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+   
+ /*headings*/
+ #company-name{
+ color: #DEC9E9;
+}
+
+ #intro
+ #fan-fav
+ #team{
+ 1 padding: 4em 0;
+
+}
+
+#header{
+    background-color: black;
+}
+
