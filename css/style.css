@@ -98,6 +98,22 @@ justify-content: center;
  padding-right: 15%;
 }
 
+#team {
+    background-color: #7251B5;
+}
+
+#team h2,
+#team .team-intro{
+    max-width: 40%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.team-grid{
+ display: grid;
+ grid-template-columns: 1fr 1fr;
+}
+
 
 
 
