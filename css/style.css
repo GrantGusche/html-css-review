@@ -61,6 +61,41 @@ nav ul li a:focus{
     height: 60vh;
     background-color: #725185;
 background-image: url(../images/ice-cream-cones.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;
+
+display: flex;
+align-items: center;
+
+justify-content: center;
+
+}
+
+#intro{
+    background-color: #7251B5;
+}
+
+#intro p {
+    max-width: 50%;
+}
+
+#fan-fav {
+    background-color: #000;
+    color: #DEC9E9;
+}
+
+#fan-fav ol {
+    list-style-type: none;
+    padding-left: 0;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#fan-fav li {
+ width: 50%;
+ padding-right: 15%;
 }
 
 
